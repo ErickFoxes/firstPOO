@@ -8,7 +8,7 @@ package informaciongeneral;
 public class InformacionGeneral {
 
     public static void main(String[] args) {
-         InformacionGeneral2 info = new InformacionGeneral2("Erick Fernando","Leones Arevalo",19,"00092217");
+         InformacionGeneral2 info = new InformacionGeneral2("Erick Fernando","Leones Arevalo",19,"00092217","07/04/1998");
             info.imprimir();
     }
     
